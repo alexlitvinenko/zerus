@@ -11,5 +11,12 @@
 
     <artifactId>zerus-domain</artifactId>
 
-
+    <dependencies>
+        <!--OWN DEPENDENCIES-->
+        <dependency>
+            <groupId>me.alit.zerus</groupId>
+            <artifactId>zerus-common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>
